@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "gatsby-ecommerce"
-  },
   "api": {
-    "projectId": "2jkk6tlv",
+    "projectId": "5olb7k08",
     "dataset": "production"
+  },
+  "project": {
+    "name": "ebox"
   },
   "plugins": [
     "@sanity/base",
